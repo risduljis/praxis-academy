@@ -1,0 +1,274 @@
+1. color
+
+2. ipconfig
+
+arisa@DESKTOP-2JFADU3 MINGW64 ~
+$ ipconfig                                                                                                              
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::10cb:bb63:a00b:eb98%7
+   IPv4 Address. . . . . . . . . . . : 192.168.100.6
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::1%7
+                                       192.168.100.1
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+3. cd
+
+arisa@DESKTOP-2JFADU3 MINGW64 ~
+$ cd /c/xampp/htdocs/praxis-academy/kemampuan-dasar-1/latihan                                                           
+arisa@DESKTOP-2JFADU3 MINGW64 /c/xampp/htdocs/praxis-academy/kemampuan-dasar-1/latihan
+$
+
+4. mkdir
+
+arisa@DESKTOP-2JFADU3 MINGW64 /c/xampp/htdocs/praxis-academy/kemampuan-dasar-1
+$ mkdir kasus
+
+arisa@DESKTOP-2JFADU3 MINGW64 /c/xampp/htdocs/praxis-academy/kemampuan-dasar-1
+$
+
+5. mklink
+
+C:\Users\arisa>mklink
+Creates a symbolic link.
+
+MKLINK [[/D] | [/H] | [/J]] Link Target
+
+        /D      Creates a directory symbolic link.  Default is a file
+                symbolic link.
+        /H      Creates a hard link instead of a symbolic link.
+        /J      Creates a Directory Junction.
+        Link    Specifies the new symbolic link name.
+        Target  Specifies the path (relative or absolute) that the new link
+                refers to.
+
+6. md
+
+C:\Users\arisa>cd C:\xampp\htdocs\praxis-academy\kemampuan-dasar-1
+
+C:\xampp\htdocs\praxis-academy\kemampuan-dasar-1>md coba
+
+C:\xampp\htdocs\praxis-academy\kemampuan-dasar-1>
+
+
+7. prompt
+
+C:\Users\arisa>prompt $d$s$s$t$_$g
+
+27/12/2019  23:02:05,33
+>
+
+8. rd
+
+C:\Users\arisa>rd C:\xampp\htdocs\praxis-academy\kemampuan-dasar-1\coba
+
+9. time 
+
+C:\Users\arisa>time /t
+23:08
+
+10. query process
+
+C:\Users\arisa>query process
+ USERNAME              SESSIONNAME         ID    PID  IMAGE
+>arisa                 console              8  15188  sihost.exe
+>arisa                 console              8  12520  svchost.exe
+>arisa                 console              8  13288  igfxem.exe
+>arisa                 console              8   6164  svchost.exe
+>arisa                 console              8  15516  taskhostw.exe
+>arisa                 console              8  13320  taskhostw.exe
+>arisa                 console              8   9808  explorer.exe
+>arisa                 console              8   5196  svchost.exe
+>arisa                 console              8   4360  esif_assist_...
+>arisa                 console              8   3112  dllhost.exe
+>arisa                 console              8  13816  startmenuexp...
+>arisa                 console              8  16188  runtimebroke...
+>arisa                 console              8   6232  searchui.exe
+>arisa                 console              8  12184  ctfmon.exe
+>arisa                 console              8  15508  runtimebroke...
+>arisa                 console              8  15244  skypebackgro...
+>arisa                 console              8  16200  yourphone.exe
+>arisa                 console              8   8560  skypeapp.exe
+>arisa                 console              8   6420  settingsynch...
+>arisa                 console              8  14504  runtimebroke...
+>arisa                 console              8  10188  chrome.exe
+>arisa                 console              8  10492  chrome.exe
+>arisa                 console              8   4372  chrome.exe
+>arisa                 console              8  10740  chrome.exe
+>arisa                 console              8  15548  chrome.exe
+>arisa                 console              8   5488  securityheal...
+>arisa                 console              8   5856  chrome.exe
+>arisa                 console              8   8680  chrome.exe
+>arisa                 console              8  13052  onedrive.exe
+>arisa                 console              8   8088  fdm.exe
+>arisa                 console              8  14020  cmd.exe
+>arisa                 console              8  13912  conhost.exe
+>arisa                 console              8   2960  browsernativ...
+>arisa                 console              8   6312  runtimebroke...
+>arisa                 console              8   6024  ravbg64.exe
+>arisa                 console              8  15944  runtimebroke...
+>arisa                 console              8   3012  ravcpl64.exe
+>arisa                 console              8  15672  chrome.exe
+>arisa                 console              8    284  skypebridge.exe
+>arisa                 console              8   6736  applicationf...
+>arisa                 console              8  10168  winstore.app...
+>arisa                 console              8   3600  runtimebroke...
+>arisa                 console              8  16028  svchost.exe
+>arisa                 console              8  14956  video.ui.exe
+>arisa                 console              8   6116  runtimebroke...
+>arisa                 console              8   9404  systemsettin...
+>arisa                 console              8   6592  lockapp.exe
+>arisa                 console              8  14500  runtimebroke...
+>arisa                 console              8   6056  microsoft.ph...
+>arisa                 console              8   7444  chrome.exe
+>arisa                 console              8   7668  dllhost.exe
+>arisa                 console              8   2420  chrome.exe
+>arisa                 console              8   4792  chrome.exe
+>arisa                 console              8     72  chrome.exe
+>arisa                 console              8  16024  telegram.exe
+>arisa                 console              8   9040  opera.exe
+>arisa                 console              8  15604  opera_crashr...
+>arisa                 console              8   2044  opera.exe
+>arisa                 console              8  16016  opera.exe
+>arisa                 console              8   7336  opera.exe
+>arisa                 console              8  12996  opera.exe
+>arisa                 console              8  12816  opera.exe
+>arisa                 console              8   9416  opera.exe
+>arisa                 console              8   3444  opera.exe
+>arisa                 console              8   3080  opera.exe
+>arisa                 console              8  15096  opera.exe
+>arisa                 console              8  11708  windowsinter...
+>arisa                 console              8   9816  notepad.exe
+>arisa                 console              8  13380  smartscreen.exe
+>arisa                 console              8   6008  opera.exe
+>arisa                 console              8  15752  opera.exe
+>arisa                 console              8   4544  opera.exe
+>arisa                 console              8  11456  searchprotoc...
+>arisa                 console              8  11700  cmd.exe
+>arisa                 console              8  15916  conhost.exe
+>arisa                 console              8   3100  runtimebroke...
+>arisa                 console              8   5508  query.exe
+>arisa                 console              8  14548  qprocess.exe
+
+11. query session
+
+C:\Users\arisa>query session
+ SESSIONNAME       USERNAME                 ID  STATE   TYPE        DEVICE
+ services                                    0  Disc
+                                             1  Down
+>console           arisa                     8  Active
+
+12. query user
+
+C:\Users\arisa>query user
+ USERNAME              SESSIONNAME        ID  STATE   IDLE TIME  LOGON TIME
+>arisa                 console             8  Active      11:08  27/12/2019 20:32	
+
+13. dir 
+
+C:\Users\arisa>dir /x
+ Volume in drive C has no label.
+ Volume Serial Number is 6A2F-B4E1
+
+ Directory of C:\Users\arisa
+
+27/12/2019  22:43    <DIR>                       .
+27/12/2019  22:43    <DIR>                       ..
+21/12/2019  16:01    <DIR>          ATOM~1       .atom
+19/11/2019  13:55    <DIR>          VSCODE~1     .vscode
+12/12/2019  04:03    <DIR>          3DOBJE~1     3D Objects
+12/12/2019  04:03    <DIR>                       Contacts
+21/12/2019  16:25    <DIR>                       Desktop
+27/12/2019  22:43    <DIR>          DIRECT~1     Directory1
+20/12/2019  21:04    <DIR>          DOCUME~1     Documents
+27/12/2019  20:33    <DIR>          DOWNLO~1     Downloads
+12/12/2019  04:03    <DIR>          FAVORI~1     Favorites
+12/12/2019  04:03    <DIR>                       Links
+26/12/2019  19:27    <DIR>                       Music
+27/12/2019  20:33    <DIR>                       OneDrive
+25/12/2019  16:11    <DIR>                       Pictures
+27/10/2019  13:57    <DIR>                       Postman
+12/12/2019  04:03    <DIR>          SAVEDG~1     Saved Games
+12/12/2019  04:03    <DIR>                       Searches
+22/12/2019  21:13    <DIR>                       Videos
+               0 File(s)              0 bytes
+              19 Dir(s)  221.002.235.904 bytes free
+
+14. echo
+
+C:\Users\arisa>Echo You didnt see that
+You didnt see that
+
+
+15. CLS
+
+Echo Hello
+CLS
+Echo You didnt see that
+
+C:\Users\arisa>Echo You didnt see that
+
+16. del 
+
+C:\Users\arisa>del C:\xampp\htdocs\praxis-academy\kemampuan-dasar-1\latihan\aris.txt
+
+17. move
+
+C:\Users\arisa>move C:\xampp\htdocs\praxis-academy\kemampuan-dasar-1\latihan\aris.txt C:\xampp\htdocs\praxis-academy\kemampuan-dasar-1\kasus\aris.txt
+        1 file(s) moved.
+
+18. hostname
+
+C:\Users\arisa>hostname
+DESKTOP-2JFADU3
+
+19. ping 
+
+C:\Users\arisa>ping 8.8.8.8
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=142ms TTL=53
+Reply from 8.8.8.8: bytes=32 time=29ms TTL=53
+Reply from 8.8.8.8: bytes=32 time=29ms TTL=53
+Reply from 8.8.8.8: bytes=32 time=29ms TTL=53
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 29ms, Maximum = 142ms, Average = 57ms
+
+20. DOSKEY
+
+C:\Users\arisa>DOSKEY note=notepad.exe
+
+C:\Users\arisa>.atomDOSKEY wpad="C:\Program Files\Windows NT\Accessories\wordpad.exe"^Z^Z^Z
+
+C:\Users\arisa>DOSKEY wpad="C:\Program Files\Windows NT\Accessories\wordpad.exe"
+
+C:\Users\arisa>wpad
+
+C:\Users\arisa>note

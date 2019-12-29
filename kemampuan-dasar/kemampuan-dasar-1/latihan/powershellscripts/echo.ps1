@@ -1,0 +1,1 @@
+echo "Aris Abdul Ajis : Latihan powershellscript praxis academy"
