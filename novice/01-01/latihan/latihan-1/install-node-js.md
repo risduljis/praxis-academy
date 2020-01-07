@@ -1,6 +1,6 @@
 ## Sumber [https://www.dumetschool.com/blog/cara-install-node-js-dan-npm-pada-windows](https://www.dumetschool.com/blog/cara-install-node-js-dan-npm-pada-windows)
 
-# Using Windows
+## Using Windows
 
 1. Download Node.JS Installer pada website resminya di [https://nodejs.org/download/](https://nodejs.org/download/)
 2. Jalankan file msi yang sudah didownload.

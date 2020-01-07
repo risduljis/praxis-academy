@@ -25,18 +25,19 @@ novice/
     │            └─── chess-board.js
     ├── latihan/
     │     ├── latihan-1/
-    │     │      └─── install-node-js.txt 
+    │     │      └─── install-node-js.md
     │     ├── latihan-2/
-    │     │      └─── install-vscode.txt
+    │     │      └─── install-vscode.md
     │     └── latihan-3/
     │            ├─── latihan-3a/
-    │            │       ├─── images/
+    │            │       ├─── img/
     │            │       │       └─── Firefox2.png
-    │            │       └─── script/
-    │            │               ├─── main.js
-    │            │               └─── index.html
-    │            └─── latihan-3b.txt
-    │      
+    │            │       ├─── script/
+    │            │       │       └─── main.js
+    │            │       └─── index.html        
+    │            │
+    │            └─── latihan-3b/
+    │                    └─── latiahan-3b.md
     └── README.md          
 
 ```
