@@ -18,9 +18,9 @@ novice/
 └── 01-01/
     ├── kasus/
     │     ├── kasus-1/
-    │     │      └─── make-start.js 
+    │     │      └─── looping-a-triangel.js 
     │     ├── kasus-2/
-    │     │      └─── FizzBuzz.js
+    │     │      └─── fizzbuzz.js
     │     └── kasus-3/
     │            └─── chess-board.js
     ├── latihan/
@@ -31,9 +31,10 @@ novice/
     │     └── latihan-3/
     │            ├─── latihan-3a/
     │            │       ├─── img/
-    │            │       │       └─── Firefox2.png
+    │            │       │      └─── firefox_icon.png
+    │            │       │      └─── firefox_icon2.jpeg
     │            │       ├─── script/
-    │            │       │       └─── main.js
+    │            │       │      └─── main.js
     │            │       └─── index.html        
     │            │
     │            └─── latihan-3b/
