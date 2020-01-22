@@ -1,0 +1,26 @@
+<html>
+<head>
+  <meta charset=utf-8 />
+  <title>01-02</title>
+</head>
+<body>
+  <script>
+    var nomor1, nomor2;
+    nomor1 = window.prompt("Masukan angka pertama", "0");
+    nomor2 = window.prompt("Masukan angka kedua", "0");
+
+    if(parseInt(nomor1, 10) > parseInt(nomor2, 10)) 
+    { 
+      console.log("Paling besar di antara "+ nomor1+ " dan "+ nomor2+ " yaitu "+ nomor1+ ".");
+    }   
+    else if(parseInt(nomor2, 10) > parseInt(nomor1, 10)) 
+    {
+      console.log("Paling besar di antara "+ nomor1+" dan "+ nomor2+ " yaitu "+ nomor2+ ".");
+    }                  
+    else
+    {
+     console.log("The values "+ nomor1+ " and "+nomor2+ " are equal.");
+   }
+ </script>
+</body>
+</html>
